@@ -1,5 +1,3 @@
-from operator import truediv
-from urllib import response
 import requests
 
 class Github:
